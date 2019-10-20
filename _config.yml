@@ -1,1 +1,7 @@
+title: ShipOS Foundation
+email: geir@shipos.org
+description: "The OS on ships - develop, deploy and manage maritime software with ease"
+baseurl: ""
+url: "http://shipos.org" 
+github_username:  shipos-foundation
 theme: jekyll-theme-cayman
