@@ -1,12 +1,1 @@
-title: ShipOS Foundation
-email: geir@shipos.org
-description: >- # ignore newlines until "baseurl:"
-    ShipOS enables a simple global development and deployment infrastructure
-    It empowers anyone to develop and deploy apps for ships
-    Democratic, crowd-sourced continuous improvement and innovation
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  shipos-foundation
-
-# Build settings
 theme: jekyll-theme-cayman
