@@ -11,5 +11,4 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed"
-	gem "rubyzip", ">= 1.3.0"
 end
