@@ -4,4 +4,4 @@ description: "The OS on ships - develop, deploy and manage maritime software wit
 baseurl: ""
 url: "http://shipos.org" 
 github_username:  shipos-foundation
-remote_theme: shipos-foundation/startbootstrap-agency
+theme: startbootstrap-agency
