@@ -1,0 +1,10 @@
+---
+layout: default
+img: |
+category: Services
+title: Maritime Vendors
+description: |
+---
+*How can ShipOS help an Independent Software Vendor?*
+
+Getting your software deployed to whole fleets has never been this easy. Join the new open market space for maritime software. Offer your applications to new customers like you would with apps on Google Play. Become a member to ensure your software run as efficient as possible on the ShipOS platform. 

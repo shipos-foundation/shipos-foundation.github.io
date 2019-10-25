@@ -1,0 +1,10 @@
+---
+layout: default
+img: |
+category: Services
+title: Class Societies
+description: |
+---
+*How can ShipOS help a Class Society?*
+
+ShipOS is an open collaboration for a standard OS onboard ships. The platform offers a standard IT environment for software deployment. A Class Society's needs for standardization and for relevant data can be efficiently realized.

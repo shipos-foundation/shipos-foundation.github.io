@@ -1,6 +1,31 @@
-title: ShipOS Foundation
-email: geir@shipos.org
-description: "The OS on ships - develop, deploy and manage maritime software with ease"
-baseurl: ""
-url: "http://shipos.org" 
-github_username:  shipos-foundation
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+urli         : http://shipos.org
+title        : ShipOS Foundation
+email        : geir@shipos.org
+author       : Geir Isene
+description  : 'The OS on ships - develop, deploy and manage maritime software with ease'
+copyright    : 'Copyright &copy; 2019 ShipOS Foundation. Very few rights reserved..'
+credits      : 'Credits: Theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title   : twitter
+    url     : https://twitter.com/shipOSfoundation
+  - title   : github
+    url     : https://github.com/shipos-foundation
+  - title   : linkedin
+    url     : 

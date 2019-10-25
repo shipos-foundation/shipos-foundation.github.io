@@ -1,0 +1,10 @@
+---
+layout: default
+img: |
+category: Services
+title: Ship Owners
+description: |
+---
+*As a ship owner, why is ShipOS important?*
+
+ShipOS gives you a better way to secure your applications. As a Ship Owner, you can deploy applications fleet-wide to monitor every aspect of your ship. Get IoT data processed and transferred to shore for better business decisions. Become a member to ensure ShipOS caters for your specific needs.
