@@ -5,7 +5,7 @@ category: About
 title: About ShipOS and the Foundation
 description: |
 ---
-ShipOS is an edge computing platform for ships. It enables a simple global development and deployment infrastructure.
+ShipOS is an edge computing platform for ships. The operating system enables a simple global development and deployment infrastructure.
 
 The ShipOS Foundation is the membership organization that develops the Open Source ShipOS.
 
