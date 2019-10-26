@@ -1,8 +1,14 @@
-ShipOS is an edge computing platform for ships. The purpose of ShipOS is to enable a simple global development and deployment infrastructure.
+ShipOS is an edge computing platform for ships. It enables a simple global development and deployment infrastructure.
 
-The ShipOS Foundation ensures the development of ShipOS. The Foundation is in its infancy and is seeking both members and developers for greater traction.
+The ShipOS Foundation is the membership organization that develops the Open Source ShipOS.
 
-ShipOS is already a functional, feature-rich solution. It empowers anyone to develop and deploy apps for ships. The vision is to enable democratic, crowd-sourced continuous improvement and innovation for the shipping industry.
+The Foundation is in its infancy and seeks both members and developers for greater traction.
+
+ShipOS is already a functional, feature-rich solution. It empowers anyone to develop and deploy apps for ships. 
+
+The vision is a democratic, crowd-sourced continuous improvement and innovation for the shipping industry.
+
+View [the site](https://shipos-foundation.github.io/charter/index.html).
 
 
 ## Open source meets business the simple way
