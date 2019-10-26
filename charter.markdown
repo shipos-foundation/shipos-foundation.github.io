@@ -2,7 +2,7 @@
 layout: page
 img: |
 category: Service
-title: The ShipOS Foundation
+title: ShipOS Foundation
 subTitle: CHARTER
 description: |
 ---
