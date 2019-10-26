@@ -1,7 +1,7 @@
 ---
 layout: default
-img: |
-category: Services
+img: management.jpg
+category: Audience
 title: Ship management
 description: |
 ---

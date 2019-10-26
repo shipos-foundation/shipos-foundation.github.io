@@ -1,7 +1,7 @@
 ---
 layout: default
-img: |
-category: Services
+img: vendor.jpg
+category: Audience
 title: Maritime Vendors
 description: |
 ---

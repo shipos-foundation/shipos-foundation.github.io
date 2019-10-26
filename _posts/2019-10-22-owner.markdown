@@ -1,7 +1,7 @@
 ---
 layout: default
-img: |
-category: Services
+img: owner.jpg
+category: Audience
 title: Ship Owners
 description: |
 ---

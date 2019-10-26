@@ -1,7 +1,7 @@
 ---
 layout: default
-img: |
-category: Services
+img: ShipOS-drawing.png
+category: About
 title: About ShipOS and the Foundation
 description: |
 ---

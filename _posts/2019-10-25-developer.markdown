@@ -1,7 +1,7 @@
 ---
 layout: default
-img: |
-category: Services
+img: developer.jpg
+category: Audience
 title: Software developers
 description: |
 ---
