@@ -2,7 +2,8 @@
 layout: page
 img: |
 category: Service
-title: The ShipOS Foundation<br />Charter
+title: The ShipOS Foundation
+subTitle: CHARTER
 description: |
 ---
 ShipOS is an edge computing platform for ships. The purpose of ShipOS is to enable a simple global development and deployment infrastructure. It empowers anyone to develop and deploy apps for ships. The vision is to enable democratic, crowd-sourced continuous improvement and innovation for the shipping industry.

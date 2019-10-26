@@ -2,7 +2,8 @@
 layout: page
 img: |
 category: Service
-title: Open source meets business<br />the simple way
+title: Open source meets business
+subTitle: the simple way
 description: |
 ---
 An Open Source project usually starts out with a simple itch. Someone has an issue they need to solve. They attack it with some code and invite other like-minded programmers to join in the effort. The structure is usually remarkably simple. The one that contributes the most ends up with the most influence.

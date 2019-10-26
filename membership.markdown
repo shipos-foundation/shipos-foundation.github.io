@@ -2,7 +2,8 @@
 layout: page
 img: |
 category: Service
-title: ShipOS Foundation membership
+title: ShipOS Foundation
+subTitle: MEMBERSHIP
 description: |
 ---
 
