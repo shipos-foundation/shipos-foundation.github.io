@@ -2,9 +2,9 @@
 layout: default
 img: vendor.jpg
 category: Audience
-title: Maritime Vendors
+title: Maritime vendors
 description: |
 ---
-*How can ShipOS help an Independent Software Vendor?*
+*How can ShipOS help an Independent Software vendor?*
 
 Getting your software deployed to whole fleets has never been this easy. Join the new open market space for maritime software. Offer your applications to new customers like you would with apps on Google Play. Become a [member](/membership/index.html) to ensure your software run as efficient as possible on the ShipOS platform. 
