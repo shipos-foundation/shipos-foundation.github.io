@@ -30,4 +30,4 @@ Money and code in fusion. In a simple way.
 
 The ShipOS foundation delivers an operating system for ships. Wilhelmsen and others adds a play store atop of the OS ta make it easy for other software providers to launch their applications to the market. Similar to the Android ecosystem for smartphones. And Wilhelmsen Group gets an easy way to reach the broader market with their applications, cutting cost along the way. Like every software and service provider in the maritime industry. Even the disruptive startup.
 
-![](/img/ShipOS-Foundation-commercial.jpg)
+![](/img/ShipOS-Foundation-commercial.png)
